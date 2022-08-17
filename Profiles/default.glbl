@@ -99,4 +99,19 @@
       <initValue>'customer'</initValue>
       <name>lastName</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.ogmoney.co/OgBusinessV2/'</initValue>
+      <name>OGUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'11177899'</initValue>
+      <name>OGUserName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Admin@123'</initValue>
+      <name>OGPassword</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

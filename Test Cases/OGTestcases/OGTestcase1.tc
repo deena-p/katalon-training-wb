@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OGTestcase1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcef2319-2b10-46c5-aaa5-2971248cef94</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>4d4e9d7c-efc6-47b6-a455-c5380788826c</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/OGTestData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>4d4e9d7c-efc6-47b6-a455-c5380788826c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ItemName</value>
+      <variableId>63c8aa1f-c7ea-458f-9f19-36d1241c9459</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>4d4e9d7c-efc6-47b6-a455-c5380788826c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ItemNameAr</value>
+      <variableId>f16f8574-3f0c-4d34-bb2b-dfc5b50a684b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>63c8aa1f-c7ea-458f-9f19-36d1241c9459</id>
+      <masked>false</masked>
+      <name>itemName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f16f8574-3f0c-4d34-bb2b-dfc5b50a684b</id>
+      <masked>false</masked>
+      <name>itemNameAr</name>
+   </variable>
+</TestCaseEntity>
